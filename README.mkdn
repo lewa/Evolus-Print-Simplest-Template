@@ -1,0 +1,25 @@
+# NAME
+
+Evolus:Print:Simplest.Template - The simplest printing template for Evolus Pencil
+
+# DESCRIPTION
+
+Evolus:Print:Simplest.Template is a slightly modified version of Evolus:Print:Default.Template - the simple/default printing template by Evolus. A few minor but noticeable changes make this template closer to the minimal look of the exported PNG files:
+
+- document title and export time are removed;
+- border of div.SVGContainer is removed;
+- content of div.SVGContainer is centered (it was centered in Pencil 2.0.4 but in Pencil 2.0.5 the alignment was reset).
+
+# INSTALLATION
+
+Pencil / Tools / Manage Export Template / Printing and exporting to PDF / Install New Template / Open the ZIP archive.
+
+Note that Pencil is sensitive to the directory structure in the ZIP archive and will emit an error message "Error installing template" if template files are not in the root directory.
+
+# COPYRIGHT AND LICENSE
+
+Copyright (C) 2012 Evolus Co., Ltd
+
+This is free software; you can redistribute it and/or modify it under the same terms as Evolus Pencil itself.
+
+This program is distributed in the hope that it will be useful, but without any warranty; without even the implied warranty of merchantability or fitness for a particular purpose. See the GNU General Public License version 2 for more details.

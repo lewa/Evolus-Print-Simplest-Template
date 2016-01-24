@@ -1,0 +1,11 @@
+<Template xmlns="http://www.evolus.vn/Namespace/Pencil">
+    <Property name="id">Evolus:Print:Simplest.Template</Property>
+    <Property name="name">Simplest Printing Template</Property>
+    <Property name="author">Evolus, lewa</Property>
+    <Property name="description">The simplest printing template</Property>
+
+    <Property name="styleSheet">StyleSheet.xslt</Property>
+
+    <Property name="print.paperSize">iso_a4</Property>
+    <Property name="print.orientation">portrait</Property>
+</Template>
